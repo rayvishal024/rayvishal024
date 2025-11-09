@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Ray</h1>
-<h3 align="center"> Passionate Full Stack Developer (MERN) </h3>
+<h3 align="center"> Passionate Full Stack Developer (MERN) & Problem Solver </h3>
 
 - 🔭 I’m currently working on Project [QuizRadix]
 - 🌱 I’m currently learning **MERN STACK**

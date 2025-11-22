@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Ray</h1>
 <h3 align="center"> Passionate Full Stack Developer (MERN) & Problem Solver </h3>
 
-- 🔭 I’m currently working on Project [QuizRadix]
+- 🔭 I’m currently working on Project <a href="https://github.com/rayvishal024/quizradix-backend">[QuizRadix]</a>
 - 🌱 I’m currently learning **MERN STACK**
 - 📫 How to reach me **rayvishal2005@gmail.com**
 
